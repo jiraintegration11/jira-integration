@@ -2,5 +2,4 @@ Create a new file for the git integration test
 
 More content
 
-Content to change - need review.
 
